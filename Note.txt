@@ -1,1 +1,3 @@
-vscode uses emmet to create html boilerplate
+vscode uses emmet to create html boilerplate 7gmZid5vFZnUJIxyePJ91dTDqscEAXXG4f0ZoZgtomRKADYBNNV9pANdWpZgithub_pat_11AGIDUOI0Pt8bC8vBSJQw_
+CDN- Content  Delivery Network - Pulling the hosted API/Resources into our project
+crossorigin- It specifies how to handle fetching of external scripts. it as two possible values - anonymous & user-credentials
